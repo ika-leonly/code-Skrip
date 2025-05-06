@@ -1,12 +1,5 @@
 
 
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
   <head>
