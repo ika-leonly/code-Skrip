@@ -1,5 +1,3 @@
-# code-Skrip
-PWB UTS
 <!DOCTYPE html>
 <html>
   <head>
